@@ -1,0 +1,10 @@
+
+### `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+openpyxl
